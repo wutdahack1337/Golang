@@ -1,2 +1,2 @@
-# learning
-learning stuff
+# Golang
+Golang stuff
